@@ -1,0 +1,4 @@
+PROGRAM myTestProgram
+WITH myInt, mySecondInt AS INTEGER
+IN myInt = 1 + 2
+END
