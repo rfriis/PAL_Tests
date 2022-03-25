@@ -1,0 +1,6 @@
+PROGRAM myTestProgram
+WITH myInt AS INTEGER myReal AS REAL
+IN myInt = 1
+   myReal = 1.1
+   OUTPUT myInt + myReal
+END
