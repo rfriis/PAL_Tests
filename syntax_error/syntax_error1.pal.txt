@@ -1,0 +1,3 @@
+PROGRAM myTestProgram
+WITH myInt AS INTEGER
+IN myInt = 1 + 2
